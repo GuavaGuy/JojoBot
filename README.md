@@ -6,19 +6,73 @@ JojoBot Commands:
 Note: Use the prefix % before all commands
 
 info
-    Description: Sends the READ_ME.txt file (this).
-    Inputs: None
-    Outputs: The JojoBot READ_ME.txt file.
+    Description: Sends the JojoBot READ_ME.txt file.
 
 git
-    Description: Links to the JojoBot GitHub repository.
-    Inputs: None
-    Outputs: Web link to the repository for this bot on Discord.
+    Description: Web link to the repository for this bot on Discord.
 
 ora
-    Description: Simulates the Jotaro vs. DIO battle from the finale of Stardust Crusaders.
-    Inputs: None
-    Outputs: Prints "Muda!"
+    Description: Prints "Muda!"
+
+delet
+    Description: Sends a Mista "delet this" image.
+
+triggered
+    Description: Sends the Vanilla Ice "triggered" image.
+
+sad
+    Description: Sends the image of Jotaro crying.
+
+joy
+    Description: Sends the image of Josuke and Okuyasu happy.
+
+boner
+    Description: Sends the Kira "boner" image.
+
+nut
+    Description: Sends the image of Star Platinum and the "nut" button.
+
+forgot
+    Description: Sends the "Araki forgot" image.
+
+gay
+    Description: Sends the Rohan "gay" image.
+
+rero
+    Description: Sends the image of Kakyoin reroing the cherry.
+
+reset
+    Description: Sends the image of Pucci pressing the "reset" button.
+
+love
+    Description: Sends the image of Polnareff showing his love.
+
+refuse
+    Description: Sends the image of Rohan saying "I refuse."
+
+kys
+    Description: Sends the "kys" image of Johnny.
+
+kms
+    Description: Sends the image of Johnny shooting himself.
+
+yes
+    Description: Sends the image of Jotaro saying "Yes! Yes! Yes!"
+
+lit
+    Description: Sends the image of Gappy saying "it's lit."
+
+unzip
+    Description: Sends the image of Bruno unzipping.
+
+angery
+    Description: Sends the image of King Crimson being 200% furious.
+
+police
+    Description: Sends the image of Jotaro calling the police.
+
+kak
+    Description: Sends the image of Kakyoin in sunglasses.
 
 react
     Description: Displays a random reaction image of the desired character. If no input is given, it will display a general Jojo reaction.
