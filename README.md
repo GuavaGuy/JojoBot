@@ -5,6 +5,16 @@ JojoBot Commands:
 
 Note: Use the prefix % before all commands
 
+info
+    Description: Sends the READ_ME.txt file (this).
+    Inputs: None
+    Outputs: The JojoBot READ_ME.txt file.
+
+git
+    Description: Links to the JojoBot GitHub repository.
+    Inputs: None
+    Outputs: Web link to the repository for this bot on Discord.
+
 ora
     Description: Simulates the Jotaro vs. DIO battle from the finale of Stardust Crusaders.
     Inputs: None
