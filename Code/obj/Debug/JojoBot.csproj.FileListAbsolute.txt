@@ -277,3 +277,237 @@ C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Ima
 C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Zeppeli\Breads.png
 C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Zeppeli\how to hamon.jpg
 C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Info\READ_ME.txt
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio blur.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio chat.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio disgust.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio don't.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio furious.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio pretty.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio salt.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio shot.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio spongebob.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Abbacchio\abbachio tantrum.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Annasui\annasui stern.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Araki\araki blur.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Araki\araki less sense.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Araki\araki nice.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Araki\araki ok.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Avdol\avdol ova pray.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Avdol\avdol quality.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Avdol\avdol succ.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Bruno\bruno mustache.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Caesar\caesar angry.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Caesar\caesar stone.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo bow.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo capri sun.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo it do.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo kawaii.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo mad.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo slap.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo smile.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo very angry.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diavolo\diavolo weed.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diego\diego dong.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diego\diego really.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Diego\diego ree.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Dio\dio chin.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Dio\dio mudad.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Dio\dio no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Dio\dio ova world.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Dio\dio red bulge.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Funny Valentine\valentine flag back.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\General\general not a mistake.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno dab.jpeg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno drugs.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno f u.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno frick.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno gerys.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno how dare you.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno lied.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno serene.jpeg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Giorno\giorno stern.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro ass.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro bad.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro johnny diego laughing.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro johnny fall off.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro johnny i like it.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro mozzerella.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro pose 2.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro pose 3.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Gyro\gyro pose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\gyro johnny diego laughing.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\gyro johnny fall off.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\gyro johnny i like it.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny angry tusk.JPG
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny butt.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny depression.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny ew.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny f.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny kms 2.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny pose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny tummy.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny what.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Johnny\johnny wth.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jolyne\jolyne no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jolyne\jolyne ok.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jonathan\jonathan heart.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph dumbfounded.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph holy 2.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph holy.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph omg.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph slimed.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph tequila eoh.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph tequila pose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joseph\joseph yes omg.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joshu\joshu laughing.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joshu\joshu sass.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke 4 butt.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke 4 fractal.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke 4 pout.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke absolutely disgusting.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke angery.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke bendy.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke bleach.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke boi.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke breaths boi.jpeg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke dat ass.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke eoh shake.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke eoh unf.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke hands.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke just great.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke kewl.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke kya.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke laser eyes.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke no nose ear.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke tea.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke thicc.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke thumbs up.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 4\josuke wtf.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 8\gappy bs.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Josuke 8\gappy swerve.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro blep.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro dong.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro ellipses.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro enough.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro eye beam.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro fedora.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro happy.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro kms.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro mermaid man.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro no no no.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro not calm.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro oras.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro qt.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro rat.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro smug.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Jotaro\jotaro stand proud.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin beetle.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin comments.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin ellipses.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin haha.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin laughing.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin love.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin mistakes.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin norisuke high five.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Joubin\jobin norisuke manga.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin cherry.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin coconuts.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin f u.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin fierce.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin high.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin milf.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin no nose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin playa.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin sweat.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin video games.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin wat.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin whoa.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kakyoin\kakyoin wut.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira blur.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira boner hyper.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira duwanged.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira eoh smug.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira high.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira laughter stops.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira no nose light.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira police.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira thumbs up.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira trash.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Kira\kira wild.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Koichi\koichi ahegao.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Koichi\koichi big head.jpeg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Koichi\koichi crap.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Koichi\koichi hell no.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Koichi\koichi joke.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista aaa.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista boi.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista delet this.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista f this.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista gun.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista hyper.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Mista\mista tea.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia better.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia bunny.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia caesar smash.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia pose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Narancia\narancia pretty.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Norisuke\jobin norisuke high five.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Norisuke\jobin norisuke manga.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu dumb face.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu eoh.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu gureito.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu lottery.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu regret.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu smiles.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Okuyasu\okuyasu teeth no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pillar Men\Pillar Men cry.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pillar Men\pillar men purpose.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pillar Men\pillar men scream.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff buffering.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff crying thumbs up.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff disco.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff hurts.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff make up.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff no nose blush.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff ova no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff quality.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff scream.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff tongue no nose.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Polnareff\polnareff wtf.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pucci\pucci laughing.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pucci\pucci light.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Pucci\pucci primes.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan cat.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan concerned.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan crap.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan creepy.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan furious.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan glare.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan house fire.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan intense.gif
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan joke.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan menacing.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan no nose smug.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan pretty.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan punches himself.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan quality.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan really.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan slide.gif
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan smirk.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan smolder.PNG
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan smug.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan squidward.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan stop it.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan ugh.PNG
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan what i think.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Speedwagon\speedwagon fierce.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Speedwagon\speedwagon hat.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Speedwagon\speedwagon smile.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Tonio\tonio smile.jpg
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Yasuho\yasuho laughing.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Yukako\yukako creepy.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Zeppeli\zeppeli boi.png
+C:\Users\Guy\Documents\Visual Studio 2015\Projects\JojoBot\JojoBot\bin\Debug\Images\Reactions\Rohan\rohan haha.jpg

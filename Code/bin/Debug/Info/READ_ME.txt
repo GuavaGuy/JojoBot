@@ -82,6 +82,7 @@ react
     *Only accepts the characters listed below as input
     Note that you must spell these characters' names as I have here, but these names are NOT case sensitive anymore.
     Acceptable characters:
+        Abbacchio
         Akira
         Annasui
         Araki
@@ -101,6 +102,7 @@ react
         Jolyne
         Jonathan
         Joseph
+        Joshu OR Joshuu
         Josuke OR Josuke4
         Gappy OR Josuke8
         Jotaro
@@ -118,11 +120,15 @@ react
         Rohan
         Shigechi
         Speedwagon
+        Tonio
         VanillaIce
+        Yasuho
         Yukako
         Zeppeli
 
-    Of particular note is that all three Pillar Men are grouped together under the "PillarMen" command, and there are not separate commands for each of them. Additionally, differentiate between Josuke from part 4 and Josuke from part 8 with "Josuke4" and "Josuke8" respectively. "Zeppeli" refers specifically to William Zeppeli from part 1, whereas Caesar and Gyro are both referred to by their first names. Finally, for the commands involving multiple words ("HolHorse", "PillarMen", and "VanillaIce"), be sure to capitalize the first letter of each word and do not use a space.
+    Of particular note is that all three Pillar Men are grouped together under the "PillarMen" command, and there are not separate commands for each of them. "Zeppeli" refers specifically to William Zeppeli from part 1, whereas Caesar and Gyro are both referred to by their first names. Also, for the commands involving multiple words ("HolHorse", "PillarMen", and "VanillaIce"), be sure to not use a space.
+    If you type "%react ___" where "___" is ANYTHING other than what is listed, a "general" Jojo reaction image will be sent. This means it might not related to any particular characters but rather Jojo as a whole, or it might contain many characters rather than be a specific reaction image for one or two.
+    Finally, if you want a reaction picture of a specific Stand, use the same command as if you wanted a picture of their user. Stands and their users are not currently separated.
 
     EXAMPLE:
-        "%react Jotaro" will display a random reaction image of Jotaro.
+        "%react Jotaro" will display a random reaction image of Jotaro OR Star Platinum.

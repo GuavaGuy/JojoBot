@@ -80,16 +80,16 @@ namespace JojoBot
 
             abbacchioReacts = new string[]
             {
-                "Images/Reactions/Abbacchio/abbacchio blur.jpg",
-                "Images/Reactions/Abbacchio/abbacchio chat.jpg",
-                "Images/Reactions/Abbacchio/abbacchio disgust.jpg",
-                "Images/Reactions/Abbacchio/abbacchio don't.png",
-                "Images/Reactions/Abbacchio/abbacchio furious.jpg",
-                "Images/Reactions/Abbacchio/abbacchio pretty.jpg",
-                "Images/Reactions/Abbacchio/abbacchio salt.jpg",
-                "Images/Reactions/Abbacchio/abbacchio shot.png",
-                "Images/Reactions/Abbacchio/abbacchio spongebob.jpg",
-                "Images/Reactions/Abbacchio/abbacchio tantrum.png"
+                "Images/Reactions/Abbacchio/abbachio blur.jpg",
+                "Images/Reactions/Abbacchio/abbachio chat.jpg",
+                "Images/Reactions/Abbacchio/abbachio disgust.jpg",
+                "Images/Reactions/Abbacchio/abbachio don't.png",
+                "Images/Reactions/Abbacchio/abbachio furious.jpg",
+                "Images/Reactions/Abbacchio/abbachio pretty.jpg",
+                "Images/Reactions/Abbacchio/abbachio salt.jpg",
+                "Images/Reactions/Abbacchio/abbachio shot.png",
+                "Images/Reactions/Abbacchio/abbachio spongebob.jpg",
+                "Images/Reactions/Abbacchio/abbachio tantrum.png"
             };
 
             akiraReacts = new string[]
@@ -689,7 +689,8 @@ namespace JojoBot
                 "Images/Reactions/Rohan/rohan stop it.jpg",
                 "Images/Reactions/Rohan/rohan stop it.jpg",
                 "Images/Reactions/Rohan/rohan ugh.PNG",
-                "Images/Reactions/Rohan/rohan what i think.jpg"
+                "Images/Reactions/Rohan/rohan what i think.jpg",
+                "Images/Reactions/Rohan/rohan haha.jpg"
             };
 
             shigechiReacts = new string[]
@@ -710,7 +711,7 @@ namespace JojoBot
 
             tonioReacts = new string[]
             {
-                "Images/Reactions/Tonio/tonio smiles.jpg"
+                "Images/Reactions/Tonio/tonio smile.jpg"
             };
 
             vanillaIceReacts = new string[]
