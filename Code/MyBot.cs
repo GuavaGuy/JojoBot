@@ -16,6 +16,7 @@ namespace JojoBot
         Random rand;
 
         string[] jojoReactions;
+        string[] abbacchioReacts;
         string[] akiraReacts;
         string[] annasuiReacts;
         string[] arakiReacts;
@@ -36,6 +37,7 @@ namespace JojoBot
         string[] jolyneReacts;
         string[] jonathanReacts;
         string[] josephReacts;
+        string[] joshuReacts;
         string[] josuke4Reacts;
         string[] josuke8Reacts;
         string[] jotaroReacts;
@@ -53,7 +55,9 @@ namespace JojoBot
         string[] rohanReacts;
         string[] shigechiReacts;
         string[] speedwagonReacts;
+        string[] tonioReacts;
         string[] vanillaIceReacts;
+        string[] yasuhoReacts;
         string[] yukakoReacts;
         string[] zeppeliReacts;
 
@@ -74,6 +78,20 @@ namespace JojoBot
                 "Images/Reactions/triggered.png"
             };
 
+            abbacchioReacts = new string[]
+            {
+                "Images/Reactions/Abbacchio/abbacchio blur.jpg",
+                "Images/Reactions/Abbacchio/abbacchio chat.jpg",
+                "Images/Reactions/Abbacchio/abbacchio disgust.jpg",
+                "Images/Reactions/Abbacchio/abbacchio don't.png",
+                "Images/Reactions/Abbacchio/abbacchio furious.jpg",
+                "Images/Reactions/Abbacchio/abbacchio pretty.jpg",
+                "Images/Reactions/Abbacchio/abbacchio salt.jpg",
+                "Images/Reactions/Abbacchio/abbacchio shot.png",
+                "Images/Reactions/Abbacchio/abbacchio spongebob.jpg",
+                "Images/Reactions/Abbacchio/abbacchio tantrum.png"
+            };
+
             akiraReacts = new string[]
             {
                 "Images/Reactions/Akira/bliss.jpeg",
@@ -83,13 +101,18 @@ namespace JojoBot
             annasuiReacts = new string[]
             {
                 "Images/Reactions/Annasui/annasui.jpg",
-                "Images/Reactions/Annasui/no mickey.jpg"
+                "Images/Reactions/Annasui/no mickey.jpg",
+                "Images/Reactions/Annasui/annasui stern.png"
             };
 
             arakiReacts = new string[]
             {
                 "Images/Reactions/Araki/I forgot.jpg",
-                "Images/Reactions/Araki/mistake.jpg"
+                "Images/Reactions/Araki/mistake.jpg",
+                "Images/Reactions/Araki/araki blur.jpg",
+                "Images/Reactions/Araki/araki less sense.jpg",
+                "Images/Reactions/Araki/araki nice.jpg",
+                "Images/Reactions/Araki/araki ok.jpg"
             };
 
             avdolReacts = new string[]
@@ -98,7 +121,10 @@ namespace JojoBot
                 "Images/Reactions/Avdol/kys.jpg",
                 "Images/Reactions/Avdol/ok.jpg",
                 "Images/Reactions/Avdol/roast.jpg",
-                "Images/Reactions/Avdol/suck.jpg"
+                "Images/Reactions/Avdol/suck.jpg",
+                "Images/Reactions/Avdol/avdol ova pray.png",
+                "Images/Reactions/Avdol/avdol quality.jpg",
+                "Images/Reactions/Avdol/avdol succ.jpg"
             };
 
             brunoReacts = new string[]
@@ -107,12 +133,15 @@ namespace JojoBot
                 "Images/Reactions/Bruno/flirty eyes.jpg",
                 "Images/Reactions/Bruno/this taste.jpg",
                 "Images/Reactions/Bruno/unzipped.jpg",
-                "Images/Reactions/Bruno/unzips.jpg"
+                "Images/Reactions/Bruno/unzips.jpg",
+                "Images/Reactions/Bruno/bruno mustache.png"
             };
 
             caesarReacts = new string[]
             {
-                "Images/Reactions/Caesar/screaming.jpg"
+                "Images/Reactions/Caesar/screaming.jpg",
+                "Images/Reactions/Caesar/caesar angry.jpg",
+                "Images/Reactions/Caesar/caesar stone.png"
             };
 
             diavoloReacts = new string[]
@@ -121,13 +150,26 @@ namespace JojoBot
                 "Images/Reactions/Diavolo/furious.jpg",
                 "Images/Reactions/Diavolo/many things to erase.jpg",
                 "Images/Reactions/Diavolo/not how it works.jpg",
-                "Images/Reactions/Diavolo/skip.jpg"
+                "Images/Reactions/Diavolo/skip.jpg",
+                "Images/Reactions/Diavolo/diavolo bow.jpg",
+                "Images/Reactions/Diavolo/diavolo capri sun.png",
+                "Images/Reactions/Diavolo/diavolo it do.jpg",
+                "Images/Reactions/Diavolo/diavolo kawaii.jpg",
+                "Images/Reactions/Diavolo/diavolo mad.jpg",
+                "Images/Reactions/Diavolo/diavolo slap.jpg",
+                "Images/Reactions/Diavolo/diavolo smile.jpg",
+                "Images/Reactions/Diavolo/diavolo very angry.jpg",
+                "Images/Reactions/Diavolo/diavolo weed.png"
             };
 
             diegoReacts = new string[]
             {
                 "Images/Reactions/Diego/disgusting.jpg",
-                "Images/Reactions/Diego/u mad.jpg"
+                "Images/Reactions/Diego/u mad.jpg",
+                "Images/Reactions/Diego/diego dong.jpg",
+                "Images/Reactions/Diego/diego really.png",
+                "Images/Reactions/Diego/diego ree.jpg",
+                "Images/Reactions/Diego/gyro johnny diego laughing.png"
             };
 
             dioReacts = new string[]
@@ -142,12 +184,18 @@ namespace JojoBot
                 "Images/Reactions/Dio/smol face.jpg",
                 "Images/Reactions/Dio/stop.jpg",
                 "Images/Reactions/Dio/time to stop.jpg",
-                "Images/Reactions/Dio/wink.jpg"
+                "Images/Reactions/Dio/wink.jpg",
+                "Images/Reactions/Dio/dio chin.png",
+                "Images/Reactions/Dio/dio mudad.jpg",
+                "Images/Reactions/Dio/dio no nose.png",
+                "Images/Reactions/Dio/dio ova world.png",
+                "Images/Reactions/Dio/dio red bulge.png"
             };
 
             valentineReacts = new string[]
             {
-                "Images/Reactions/Funny Valentine/Change dimensions.jpg"
+                "Images/Reactions/Funny Valentine/Change dimensions.jpg",
+                "Images/Reactions/Funny Valentine/valentine flag back.jpg"
             };
 
             generalReacts = new string[]
@@ -158,13 +206,23 @@ namespace JojoBot
                 "Images/Reactions/General/No jojo reference.jpg",
                 "Images/Reactions/General/part 4 laughing.jpg",
                 "Images/Reactions/General/posing.jpg",
-                "Images/Reactions/General/Yes jojo reference.jpg"
+                "Images/Reactions/General/Yes jojo reference.jpg",
+                "Images/Reactions/General/general not a mistake.jpg"
             };
 
             giornoReacts = new string[]
             {
                 "Images/Reactions/Giorno/i believe it.jpg",
-                "Images/Reactions/Giorno/nervous giorno.jpg"
+                "Images/Reactions/Giorno/nervous giorno.jpg",
+                "Images/Reactions/Giorno/giorno dab.jpeg",
+                "Images/Reactions/Giorno/giorno drugs.jpg",
+                "Images/Reactions/Giorno/giorno f u.jpg",
+                "Images/Reactions/Giorno/giorno frick.jpg",
+                "Images/Reactions/Giorno/giorno gerys.jpg",
+                "Images/Reactions/Giorno/giorno how dare you.jpg",
+                "Images/Reactions/Giorno/giorno lied.jpg",
+                "Images/Reactions/Giorno/giorno serene.jpeg",
+                "Images/Reactions/Giorno/giorno stern.png"
             };
 
             gyroReacts = new string[]
@@ -177,7 +235,16 @@ namespace JojoBot
                 "Images/Reactions/Gyro/Mamma mia.jpg",
                 "Images/Reactions/Gyro/nyo ho.jpg",
                 "Images/Reactions/Gyro/teddy bear.jpg",
-                "Images/Reactions/Gyro/whatever stupid.jpg"
+                "Images/Reactions/Gyro/whatever stupid.jpg",
+                "Images/Reactions/Gyro/gyro ass.jpg",
+                "Images/Reactions/Gyro/gyro bad.png",
+                "Images/Reactions/Gyro/gyro johnny diego laughing.png",
+                "Images/Reactions/Gyro/gyro johnny fall off.jpg",
+                "Images/Reactions/Gyro/gyro johnny i like it.png",
+                "Images/Reactions/Gyro/gyro mozzerella.jpg",
+                "Images/Reactions/Gyro/gyro pose 2.jpg",
+                "Images/Reactions/Gyro/gyro pose 3.jpg",
+                "Images/Reactions/Gyro/gyro pose.jpg"
             };
 
             hazamadaReacts = new string[]
@@ -211,12 +278,27 @@ namespace JojoBot
                 "Images/Reactions/Johnny/surprise.jpg",
                 "Images/Reactions/Johnny/what's he saying.jpg",
                 "Images/Reactions/Johnny/what 2.jpg",
-                "Images/Reactions/Johnny/what.jpg"
+                "Images/Reactions/Johnny/what.jpg",
+                "Images/Reactions/Johnny/johnny angry tusk.JPG",
+                "Images/Reactions/Johnny/johnny butt.jpg",
+                "Images/Reactions/Johnny/johnny depression.jpg",
+                "Images/Reactions/Johnny/johnny ew.png",
+                "Images/Reactions/Johnny/johnny f.jpg",
+                "Images/Reactions/Johnny/johnny kms 2.jpg",
+                "Images/Reactions/Johnny/johnny pose.jpg",
+                "Images/Reactions/Johnny/johnny tummy.jpg",
+                "Images/Reactions/Johnny/johnny what.jpg",
+                "Images/Reactions/Johnny/johnny wth.jpg",
+                "Images/Reactions/Johnny/gyro johnny diego laughing.png",
+                "Images/Reactions/Johnny/gyro johnny i like it.png",
+                "Images/Reactions/Johnny/gyro johnny fall off.jpg"
             };
 
             jolyneReacts = new string[]
             {
-                "Images/Reactions/Jolyne/smile.jpg"
+                "Images/Reactions/Jolyne/smile.jpg",
+                "Images/Reactions/Jolyne/jolyne no nose.png",
+                "Images/Reactions/Jolne/jolyne ok.jpg"
             };
 
             jonathanReacts = new string[]
@@ -224,7 +306,8 @@ namespace JojoBot
                 "Images/Reactions/Jonathan/bruh.jpg",
                 "Images/Reactions/Jonathan/good grief.jpg",
                 "Images/Reactions/Jonathan/jonathan joestar.jpg",
-                "Images/Reactions/Jonathan/this is fine.jpg"
+                "Images/Reactions/Jonathan/this is fine.jpg",
+                "Images/Reactions/Jonathan/jonathan heart.png"
             };
 
             josephReacts = new string[]
@@ -242,7 +325,22 @@ namespace JojoBot
                 "Images/Reactions/Joseph/shock.jpg",
                 "Images/Reactions/Joseph/tequila joseph.png",
                 "Images/Reactions/Joseph/that bastard.jpg",
-                "Images/Reactions/Joseph/wat.jpg"
+                "Images/Reactions/Joseph/wat.jpg",
+                "Images/Reactions/Joseph/joseph dumbfounded.jpg",
+                "Images/Reactions/Joseph/joseph holy 2.jpg",
+                "Images/Reactions/Joseph/joseph holy.jpg",
+                "Images/Reactions/Joseph/joseph no nose.png",
+                "Images/Reactions/Joseph/joseph omg.jpg",
+                "Images/Reactions/Joseph/joseph slimed.png",
+                "Images/Reactions/Joseph/joseph tequila eoh.jpg",
+                "Images/Reactions/Joseph/joseph tequila pose.jpg",
+                "Images/Reactions/Joseph/joseph yes omg.jpg"
+            };
+
+            joshuReacts = new string[]
+            {
+                "Images/Reactions/Joshu/joshu laughing.png",
+                "Images/Reactions/Joshu/joshu sass.png"
             };
 
             josuke4Reacts = new string[]
@@ -276,10 +374,32 @@ namespace JojoBot
                 "Images/Reactions/Josuke 4/rat.jpg",
                 "Images/Reactions/Josuke 4/sad.jpg",
                 "Images/Reactions/Josuke 4/screaming.jpg",
-                "Images/Reactions/Josuke 4/smile.jpg",
+                "Images/Reactions/Josuke 4/smile.png",
                 "Images/Reactions/Josuke 4/stop looking at memes and sleep.jpg",
                 "Images/Reactions/Josuke 4/you got me.jpg",
-                "Images/Reactions/Josuke 4/zero dignity.jpg"
+                "Images/Reactions/Josuke 4/zero dignity.jpg",
+                "Images/Reactions/Josuke 4/josuke 4 butt.png",
+                "Images/Reactions/Josuke 4/josuke 4 fractal.jpg",
+                "Images/Reactions/Josuke 4/josuke 4 pout.jpg",
+                "Images/Reactions/Josuke 4/josuke absolutely disgusting.jpg",
+                "Images/Reactions/Josuke 4/josuke angery.jpg",
+                "Images/Reactions/Josuke 4/josuke bendy.jpg",
+                "Images/Reactions/Josuke 4/josuke bleach.jpg",
+                "Images/Reactions/Josuke 4/josuke boi.jpg",
+                "Images/Reactions/Josuke 4/josuke breaths boi.jpeg",
+                "Images/Reactions/Josuke 4/josuke dat ass.jpg",
+                "Images/Reactions/Josuke 4/josuke eoh shake.png",
+                "Images/Reactions/Josuke 4/josuke eoh unf.png",
+                "Images/Reactions/Josuke 4/josuke hands.png",
+                "Images/Reactions/Josuke 4/josuke just great.jpg",
+                "Images/Reactions/Josuke 4/josuke kewl.png",
+                "Images/Reactions/Josuke 4/josuke kya.jpg",
+                "Images/Reactions/Josuke 4/josuke laser eyes.jpg",
+                "Images/Reactions/Josuke 4/josuke no nose ear.png",
+                "Images/Reactions/Josuke 4/josuke tea.jpg",
+                "Images/Reactions/Josuke 4/josuke thicc.jpg",
+                "Images/Reactions/Josuke 4/josuke thumbs up.jpg",
+                "Images/Reactions/Josuke 4/josuke wtf.jpg"
             };
 
             josuke8Reacts = new string[]
@@ -292,7 +412,9 @@ namespace JojoBot
                 "Images/Reactions/Josuke 8/not crying.png",
                 "Images/Reactions/Josuke 8/read.jpg",
                 "Images/Reactions/Josuke 8/what am i reading.jpg",
-                "Images/Reactions/Josuke 8/when you read.jpg"
+                "Images/Reactions/Josuke 8/when you read.jpg",
+                "Images/Reactions/Josuke 8/gappy bs.jpg",
+                "Images/Reactions/Josuke 8/gappy swerve.jpg"
             };
 
             jotaroReacts = new string[]
@@ -320,12 +442,37 @@ namespace JojoBot
                 "Images/Reactions/Jotaro/shag platinum.jpg",
                 "Images/Reactions/Jotaro/Shut up.jpg",
                 "Images/Reactions/Jotaro/sweating.jpg",
-                "Images/Reactions/Jotaro/yes yes yes.jpg"
+                "Images/Reactions/Jotaro/yes yes yes.jpg",
+                "Images/Reactions/Jotaro/jotaro blep.jpg",
+                "Images/Reactions/Jotaro/jotaro dong.jpg",
+                "Images/Reactions/Jotaro/jotaro ellipses.png",
+                "Images/Reactions/Jotaro/jotaro enough.jpg",
+                "Images/Reactions/Jotaro/jotaro eye beam.jpg",
+                "Images/Reactions/Jotaro/jotaro fedora.jpg",
+                "Images/Reactions/Jotaro/jotaro happy.jpg",
+                "Images/Reactions/Jotaro/jotaro kms.png",
+                "Images/Reactions/Jotaro/jotaro mermaid man.jpg",
+                "Images/Reactions/Jotaro/jotaro no no no.png",
+                "Images/Reactions/Jotaro/jotaro not calm.jpg",
+                "Images/Reactions/Jotaro/jotaro oras.png",
+                "Images/Reactions/Jotaro/jotaro qt.png",
+                "Images/Reactions/Jotaro/jotaro rat.png",
+                "Images/Reactions/Jotaro/jotaro smug.jpg",
+                "Images/Reactions/Jotaro/jotaro stand proud.jpg"
             };
 
             joubinReacts = new string[]
             {
-                "Images/Reactions/Joubin/angery.jpg"
+                "Images/Reactions/Joubin/angery.jpg",
+                "Images/Reactions/Joubin/jobin beetle.png",
+                "Images/Reactions/Joubin/jobin comments.png",
+                "Images/Reactions/Joubin/jobin ellipses.jpg",
+                "Images/Reactions/Joubin/jobin haha.png",
+                "Images/Reactions/Joubin/jobin laughing.png",
+                "Images/Reactions/Joubin/jobin love.jpg",
+                "Images/Reactions/Joubin/jobin mistakes.png",
+                "Images/Reactions/Joubin/jobin norisuke high five.png",
+                "Images/Reactions/Joubin/jobin norisuke manga.jpg"
             };
 
             kakyoinReacts = new string[]
@@ -342,7 +489,20 @@ namespace JojoBot
                 "Images/Reactions/Kakyoin/rero.png",
                 "Images/Reactions/Kakyoin/screaming.jpg",
                 "Images/Reactions/Kakyoin/sex your mom.jpg",
-                "Images/Reactions/Kakyoin/smile.jpg"
+                "Images/Reactions/Kakyoin/smile.jpg",
+                "Images/Reactions/Kakyoin/kakyoin cherry.png",
+                "Images/Reactions/Kakyoin/kakyoin coconuts.jpg",
+                "Images/Reactions/Kakyoin/kakyoin f u.jpg",
+                "Images/Reactions/Kakyoin/kakyoin fierce.png",
+                "Images/Reactions/Kakyoin/kakyoin high.jpg",
+                "Images/Reactions/Kakyoin/kakyoin milf.jpg",
+                "Images/Reactions/Kakyoin/kakyoin no nose.jpg",
+                "Images/Reactions/Kakyoin/kakyoin playa.jpg",
+                "Images/Reactions/Kakyoin/kakyoin sweat.jpg",
+                "Images/Reactions/Kakyoin/kakyoin video games.jpg",
+                "Images/Reactions/Kakyoin/kakyoin wat.jpg",
+                "Images/Reactions/Kakyoin/kakyoin whoa.jpg",
+                "Images/Reactions/Kakyoin/kakyoin wut.jpg"
             };
 
             kiraReacts = new string[]
@@ -364,7 +524,18 @@ namespace JojoBot
                 "Images/Reactions/Kira/redo.jpg",
                 "Images/Reactions/Kira/send hands.jpg",
                 "Images/Reactions/Kira/third bomb.jpg",
-                "Images/Reactions/Kira/yabai.jpg"
+                "Images/Reactions/Kira/yabai.jpg",
+                "Images/Reactions/Kira/kira blur.jpg",
+                "Images/Reactions/Kira/kira boner hyper.jpg",
+                "Images/Reactions/Kira/kira duwanged.jpg",
+                "Images/Reactions/Kira/kira eoh smug.png",
+                "Images/Reactions/Kira/kira high.png",
+                "Images/Reactions/Kira/kira laughter stops.jpg",
+                "Images/Reactions/Kira/kira no nose light.png",
+                "Images/Reactions/Kira/kira police.png",
+                "Images/Reactions/Kira/kira thumbs up.png",
+                "Images/Reactions/Kira/kira trash.png",
+                "Images/Reactions/Kira/kira wild.jpg"
             };
 
             koichiReacts = new string[]
@@ -377,7 +548,12 @@ namespace JojoBot
                 "Images/Reactions/Koichi/panic.jpg",
                 "Images/Reactions/Koichi/secret bliss.jpg",
                 "Images/Reactions/Koichi/smugichi/png",
-                "Images/Reactions/Koichi/surprise.png"
+                "Images/Reactions/Koichi/surprise.png",
+                "Images/Reactions/Koichi/koichi ahegao.png",
+                "Images/Reactions/Koichi/koichi big head.jpeg",
+                "Images/Reactions/Koichi/koichi crap.jpg",
+                "Images/Reactions/Koichi/koichi hell no.jpg",
+                "Images/Reactions/Koichi/koichi joke.jpg"
             };
 
             mistaReacts = new string[]
@@ -386,17 +562,33 @@ namespace JojoBot
                 "Images/Reactions/Mista/many mistas.jpg",
                 "Images/Reactions/Mista/mista.jpg",
                 "Images/Reactions/Mista/stop.jpg",
-                "Images/Reactions/Mista/swap.jpg"
+                "Images/Reactions/Mista/swap.jpg",
+                "Images/Reactions/Mista/mista aaa.png",
+                "Images/Reactions/Mista/mista boi.jpg",
+                "Images/Reactions/Mista/mista delet this.jpg",
+                "Images/Reactions/Mista/mista f this.jpg",
+                "Images/Reactions/Mista/mista gun.png",
+                "Images/Reactions/Mista/mista hyper.jpg",
+                "Images/Reactions/Mista/mista no nose.png",
+                "Images/Reactions/Mista/mista tea.jpg"
             };
 
             naranciaReacts = new string[]
             {
-                "Images/Reactions/Narancia/delet.jpg"
+                "Images/Reactions/Narancia/delet.jpg",
+                "Images/Reactions/Narancia/narancia better.jpg",
+                "Images/Reactions/Narancia/narancia bunny.jpg",
+                "Images/Reactions/Narancia/narancia caesar smash.jpg",
+                "Images/Reactions/Narancia/narancia no nose.png",
+                "Images/Reactions/Narancia/narancia pose.jpg",
+                "Images/Reactions/Narancia/narancia pretty.jpg"
             };
 
             norisukeReacts = new string[]
             {
-                "Images/Reactions/Norisuke/Lol.png"
+                "Images/Reactions/Norisuke/Lol.png",
+                "Images/Reactions/Norisuke/jobin norisuke high five.png",
+                "Images/Reactions/Norisuke/jobin norisuke manga.jpg"
             };
 
             okuyasuReacts = new string[]
@@ -410,7 +602,14 @@ namespace JojoBot
                 "Images/Reactions/Okuyasu/josuke joy.jpg",
                 "Images/Reactions/Okuyasu/smugyasu.jpg",
                 "Images/Reactions/Okuyasu/tough.png",
-                "Images/Reactions/Okuyasu/what.jpg"
+                "Images/Reactions/Okuyasu/what.jpg",
+                "Images/Reactions/Okuyasu/okuyasu dumb face.png",
+                "Images/Reactions/Okuyasu/okuyasu eoh.jpg",
+                "Images/Reactions/Okuyasu/okuyasu gureito.jpg",
+                "Images/Reactions/Okuyasu/okuyasu lottery.jpg",
+                "Images/Reactions/Okuyasu/okuyasu regret.jpg",
+                "Images/Reactions/Okuyasu/okuyasu smiles.jpg",
+                "Images/Reactions/Okuyasu/okuyasu teeth no nose.png"
             };
 
             pillarMenReacts = new string[]
@@ -419,13 +618,27 @@ namespace JojoBot
                 "Images/Reactions/Pillar Men/bliss.jpg",
                 "Images/Reactions/Pillar Men/excellent response.jpg",
                 "Images/Reactions/Pillar Men/i cannot be angered.jpg",
-                "Images/Reactions/Pillar Men/laughing.jpg"
+                "Images/Reactions/Pillar Men/laughing.jpg",
+                "Images/Reactions/Pillar Men/Pillar Men cry.png",
+                "Images/Reactions/Pillar Men/pillar men purpose.jpg",
+                "Images/Reactions/Pillar Men/pillar men scream.jpg"
             };
 
             polnareffReacts = new string[]
             {
                 "Images/Reactions/Polnareff/crying.jpg",
-                "Images/Reactions/Polnareff/heart.jpg"
+                "Images/Reactions/Polnareff/heart.jpg",
+                "Images/Reactions/Polnareff/polnareff buffering.jpg",
+                "Images/Reactions/Polnareff/polnareff crying thumbs up.jpg",
+                "Images/Reactions/Polnareff/polnareff disco.png",
+                "Images/Reactions/Polnareff/polnareff hurts.png",
+                "Images/Reactions/Polnareff/polnareff make up.png",
+                "Images/Reactions/Polnareff/polnareff no nose blush.jpg",
+                "Images/Reactions/Polnareff/polnareff ova no nose.png",
+                "Images/Reactions/Polnareff/polnareff quality.jpg",
+                "Images/Reactions/Polnareff/polnareff scream.png",
+                "Images/Reactions/Polnareff/polnareff tongue no nose.png",
+                "Images/Reactions/Polnareff/polnareff wtf.jpg"
             };
 
             pucciReacts = new string[]
@@ -437,7 +650,10 @@ namespace JojoBot
                 "Images/Reactions/Pucci/pucci.png",
                 "Images/Reactions/Pucci/reset button.jpg",
                 "Images/Reactions/Pucci/reset.jpg",
-                "Images/Reactions/Pucci/slapped with lord.jpg"
+                "Images/Reactions/Pucci/slapped with lord.jpg",
+                "Images/Reactions/Pucci/pucci laughing.jpg",
+                "Images/Reactions/Pucci/pucci light.png",
+                "Images/Reactions/Pucci/pucci primes.jpg"
             };
 
             rohanReacts = new string[]
@@ -449,7 +665,31 @@ namespace JojoBot
                 "Images/Reactions/Rohan/no nose smile.jpg",
                 "Images/Reactions/Rohan/smughan.jpg",
                 "Images/Reactions/Rohan/yabai.jpg",
-                "Images/Reactions/Rohan/yamete.jpg"
+                "Images/Reactions/Rohan/yamete.jpg",
+                "Images/Reactions/Rohan/rohan cat.jpg",
+                "Images/Reactions/Rohan/rohan concerned.jpg",
+                "Images/Reactions/Rohan/rohan crap.jpg",
+                "Images/Reactions/Rohan/rohan creepy.png",
+                "Images/Reactions/Rohan/rohan furious.jpg",
+                "Images/Reactions/Rohan/rohan glare.jpg",
+                "Images/Reactions/Rohan/rohan house fire.jpg",
+                "Images/Reactions/Rohan/rohan intense.gif",
+                "Images/Reactions/Rohan/rohan joke.jpg",
+                "Images/Reactions/Rohan/rohan menacing.jpg",
+                "Images/Reactions/Rohan/rohan no nose smug.png",
+                "Images/Reactions/Rohan/rohan pretty.jpg",
+                "Images/Reactions/Rohan/rohan punches himself.jpg",
+                "Images/Reactions/Rohan/rohan quality.jpg",
+                "Images/Reactions/Rohan/rohan really.jpg",
+                "Images/Reactions/Rohan/rohan slide.gif",
+                "Images/Reactions/Rohan/rohan smirk.jpg",
+                "Images/Reactions/Rohan/rohan smolder.PNG",
+                "Images/Reactions/Rohan/rohan smug.png",
+                "Images/Reactions/Rohan/rohan squidward.png",
+                "Images/Reactions/Rohan/rohan stop it.jpg",
+                "Images/Reactions/Rohan/rohan stop it.jpg",
+                "Images/Reactions/Rohan/rohan ugh.PNG",
+                "Images/Reactions/Rohan/rohan what i think.jpg"
             };
 
             shigechiReacts = new string[]
@@ -462,7 +702,15 @@ namespace JojoBot
                 "Images/Reactions/Speedwagon/Afraid.jpg",
                 "Images/Reactions/Speedwagon/cheering.jpg",
                 "Images/Reactions/Speedwagon/shock.jpg",
-                "Images/Reactions/Speedwagon/thumbs up.jpg"
+                "Images/Reactions/Speedwagon/thumbs up.jpg",
+                "Images/Reactions/Speedwagon/speedwagon fierce.jpg",
+                "Images/Reactions/Speedwagon/speedwagon hat.png",
+                "Images/Reactions/Speedwagon/speedwagon smile.jpg"
+            };
+
+            tonioReacts = new string[]
+            {
+                "Images/Reactions/Tonio/tonio smiles.jpg"
             };
 
             vanillaIceReacts = new string[]
@@ -470,15 +718,22 @@ namespace JojoBot
                 "Images/Reactions/Vanilla Ice/triggered.png"
             };
 
+            yasuhoReacts = new string[]
+            {
+                "Images/Reactions/Yasuho/yasuho laughing.png"
+            };
+
             yukakoReacts = new string[]
             {
-                "Images/Reactions/Yukako/stupid.jpg"
+                "Images/Reactions/Yukako/stupid.jpg",
+                "Images/Reactions/Yukako/yukako creepy.png"
             };
 
             zeppeliReacts = new string[]
             {
                 "Images/Reactions/Zeppeli/Breads.png",
-                "Images/Reactions/Zeppeli/how to hamon.png"
+                "Images/Reactions/Zeppeli/how to hamon.png",
+                "Images/Reactions/Zeppeli/zeppeli boi.png"
             };
 
             rand = new Random();
@@ -747,7 +1002,11 @@ namespace JojoBot
 
         private string[] ChooseFolder(string charForReact)
         {
-            if (charForReact.Equals("Akira", StringComparison.CurrentCultureIgnoreCase))
+            if (charForReact.Equals("Abbacchio", StringComparison.CurrentCultureIgnoreCase))
+            {
+                return abbacchioReacts;
+            }
+            else if (charForReact.Equals("Akira", StringComparison.CurrentCultureIgnoreCase))
             {
                 return akiraReacts;
             }
@@ -823,6 +1082,10 @@ namespace JojoBot
             {
                 return josephReacts;
             }
+            else if (charForReact.Equals("Joshu", StringComparison.CurrentCultureIgnoreCase) || charForReact.Equals("Joshuu", StringComparison.CurrentCultureIgnoreCase))
+            {
+                return joshuReacts;
+            }
             else if (charForReact.Equals("Josuke4", StringComparison.CurrentCultureIgnoreCase) || charForReact.Equals("Josuke", StringComparison.CurrentCultureIgnoreCase))
             {
                 return josuke4Reacts;
@@ -891,9 +1154,17 @@ namespace JojoBot
             {
                 return speedwagonReacts;
             }
+            else if (charForReact.Equals("Tonio", StringComparison.CurrentCultureIgnoreCase))
+            {
+                return tonioReacts;
+            }
             else if (charForReact.Equals("VanillaIce", StringComparison.CurrentCultureIgnoreCase))
             {
                 return vanillaIceReacts;
+            }
+            else if (charForReact.Equals("Yasuho", StringComparison.CurrentCultureIgnoreCase))
+            {
+                return yasuhoReacts;
             }
             else if (charForReact.Equals("Yukako", StringComparison.CurrentCultureIgnoreCase))
             {
